@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 - For Desktop Application <br>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![VB.Net](https://img.shields.io/badge/-VB.NET-blue?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![VB6](https://img.shields.io/badge/-VB%206-blue?style=for-the-badge&logo=VB6&logoColor=white) 
 
 - Web Application <br>
