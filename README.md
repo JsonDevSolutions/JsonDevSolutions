@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Jeasson M. Seroy
 - 🎓 Bachelor's Degree in Computer Science from Western Mindanao State University
-- 💻 Desktop Application Developer and Aspiring Back-end Web Developer
+- 💻 Aspiring Back-end Web Developer
 - 📚 Lifelong learner always striving to improve my skills
 
 <!-- ### 📄 Know about my experiences [samplesite.com](samplesite.com) -->
