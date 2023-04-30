@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💻 Aspiring Back-end Web Developer
 - 📚 Lifelong learner always striving to improve my skills
 
-### 📄 Know about my experiences [samplesite.com](samplesites.com)
+### 📄 Know about my experiences ([samplesites.com](https://jsondev-solutions.com/))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeasson-seroy-711076162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampleuser" height="30" width="40" /></a>
